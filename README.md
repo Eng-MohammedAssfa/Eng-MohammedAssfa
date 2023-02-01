@@ -36,7 +36,7 @@
 
 
 <!-- جديد -->
-<div style="margin: 0px;  float: right; height: 100%"><img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%); max-width: 100%; display: inline-block; padding: 50px;" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"></div>
+<div style="margin: auto;  float: right; height: 100%"><img style="-webkit-user-select: none;margin: auto; background-color: hsl(0, 0%, 90%); max-width: 100%; display: inline-block; " src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif"></div>
 <!-- جديد -->
 
 
